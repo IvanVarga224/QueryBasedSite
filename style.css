@@ -5,7 +5,7 @@
     --headline: clamp(1.62rem, 1.5721rem + 0.2397vw, 1.7578rem);
     --title: clamp(2.3328rem, 2.1889rem + 0.7196vw, 2.7466rem);
     --heading: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
-    
+
     /* Spaces */
     --space-l-xl: clamp(2rem, 1.6522rem + 1.7391vw, 3rem);
     --space-m-l: clamp(1.5rem, 1.3261rem + 0.8696vw, 2rem);
@@ -221,8 +221,8 @@ article:active{
 .article-image{
     max-width: 100%;
     border-radius: var(--space-3xs-2xs);
-    height:clamp(4.5rem, 4.3261rem + 0.8696vw, 5rem);
-    width:clamp(6.5rem, 6.1522rem + 1.7391vw, 7.5rem);
+    height:clamp(4rem, 3.6522rem + 1.7391vw, 5rem);
+    width:clamp(6rem, 5.4783rem + 2.6087vw, 7.5rem);
 }
 
 .article-text {
