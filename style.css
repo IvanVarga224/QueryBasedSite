@@ -1,11 +1,11 @@
 :root{
     /* Fonts */
-    --caption: clamp(0.8rem, 0.8449rem + -0.058vw, 0.8333rem);
-    --base: clamp(1rem, 1rem + 0vw, 1rem);
-    --headline: clamp(1.44rem, 1.3974rem + 0.213vw, 1.5625rem);
-    --title: clamp(2.0736rem, 1.9457rem + 0.6397vw, 2.4414rem);
-    --heading:clamp(2.986rem, 2.6977rem + 1.4412vw, 3.8147rem);
-
+    --caption: clamp(0.9rem, 0.9505rem + -0.0652vw, 0.9375rem);
+    --base: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+    --headline: clamp(1.62rem, 1.5721rem + 0.2397vw, 1.7578rem);
+    --title: clamp(2.3328rem, 2.1889rem + 0.7196vw, 2.7466rem);
+    --heading: clamp(2.7994rem, 2.5789rem + 1.1024vw, 3.4332rem);
+    
     /* Spaces */
     --space-l-xl: clamp(2rem, 1.6522rem + 1.7391vw, 3rem);
     --space-m-l: clamp(1.5rem, 1.3261rem + 0.8696vw, 2rem);
@@ -23,7 +23,7 @@
     --background-color: #ffffff;
     --link-color: #000000; 
     --highlight-color: #0095b6;
-    --text-color: #333333;
+    --text-color: #1d1d1d;
     --social-color: #c60db4;  
     --icon-color:#1b1b1b;
   
@@ -37,14 +37,6 @@
     --font-base:"Roboto", "Arial", sans-serif;
     --font-brand:"Ribeye Marrow";
 
-    /* Colors */
-    --background-color: #f2f2f2;
-    --link-color: #000000; 
-    --highlight-color: #0095b6;
-    --text-color: #1d1d1d;
-    --social-color: #c60db4;  
-    --icon-color:#1b1b1b;
-  
     /* Line height */
     --lh-160: 1.6;
     --lh-120:1.2;
