@@ -15,14 +15,6 @@
     --space-3xs-2xs: clamp(0.25rem, 0.163rem + 0.4348vw, 0.5rem);
     --space-responsive: var(--space-l-xl);
 
-
-    /* Fonts */
-    --caption: clamp(0.8rem, 0.8449rem + -0.058vw, 0.8333rem);
-    --base: clamp(1rem, 1rem + 0vw, 1rem);
-    --headline: clamp(1.44rem, 1.3974rem + 0.213vw, 1.5625rem);
-    --title: clamp(2.0736rem, 1.9457rem + 0.6397vw, 2.4414rem);
-    --heading:clamp(2.986rem, 2.6977rem + 1.4412vw, 3.8147rem);
-
     /* Grid */
     --grid-max-width: 78.00rem;
     --grid-gutter: var(--space-s-l, clamp(1rem, 0.6296rem + 1.8519vw, 2rem));
